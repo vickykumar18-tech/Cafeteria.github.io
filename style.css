@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(/image/coffeeimg.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    top: 0px;
+    /* height: 100%;
+    width: 100%; */
+
+}
+#logo img{
+    height: 55px;
+    margin: -47px 12px;
+
+}
+#logo h2{
+    margin-top:0px;
+    margin-left:64px;
+}
+span{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 44px;
+}
+.banner{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 100px 10px;
+}
+.banner h1{
+    font-size:56px
+}
+.banner p{
+    margin: 10px 0px;
+    color: rgb(77, 61, 12);
+}
+
+button{
+    padding: 10px 13px;
+    border:none;
+    background-color:#e9bf56;
+    color: #f3d6ae;
+    font-weight:bold; 
+    border-radius:10px
+}
+button:hover{
+    background-color:#4e401b;
+    color: rgb(194, 181, 145);
+}
+/* .icons ul li{
+    display:inline-block;
+    list-style: none;
+    margin:20px ;
+} */
